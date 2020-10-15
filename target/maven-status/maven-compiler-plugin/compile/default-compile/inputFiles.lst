@@ -1,0 +1,10 @@
+/home/max/Projects/beer/src/main/java/com/max/beer/web/model/BeerDto.java
+/home/max/Projects/beer/src/main/java/com/max/beer/BeerApplication.java
+/home/max/Projects/beer/src/main/java/com/max/beer/domain/Beer.java
+/home/max/Projects/beer/src/main/java/com/max/beer/web/mappers/BeerMapper.java
+/home/max/Projects/beer/src/main/java/com/max/beer/web/model/BeerPagedList.java
+/home/max/Projects/beer/src/main/java/com/max/beer/web/controller/BeerController.java
+/home/max/Projects/beer/src/main/java/com/max/beer/bootstrap/BeerLoader.java
+/home/max/Projects/beer/src/main/java/com/max/beer/web/mappers/DateMapper.java
+/home/max/Projects/beer/src/main/java/com/max/beer/repositories/BeerRepository.java
+/home/max/Projects/beer/src/main/java/com/max/beer/web/model/BeerStyle.java

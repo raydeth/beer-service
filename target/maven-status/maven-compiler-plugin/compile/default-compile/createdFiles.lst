@@ -1,0 +1,13 @@
+com/max/beer/BeerApplication.class
+com/max/beer/bootstrap/BeerLoader.class
+com/max/beer/domain/Beer$BeerBuilder.class
+com/max/beer/web/mappers/BeerMapperImpl.class
+com/max/beer/web/controller/BeerController.class
+com/max/beer/domain/Beer.class
+com/max/beer/web/model/BeerDto$BeerDtoBuilder.class
+com/max/beer/web/mappers/BeerMapper.class
+com/max/beer/repositories/BeerRepository.class
+com/max/beer/web/model/BeerStyle.class
+com/max/beer/web/model/BeerDto.class
+com/max/beer/web/mappers/DateMapper.class
+com/max/beer/web/model/BeerPagedList.class
